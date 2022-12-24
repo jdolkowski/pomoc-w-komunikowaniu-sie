@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/pomoc-w-komunikowaniu-sie/static/css/main.17fbb6b6.chunk.css",
+    "main.js": "/pomoc-w-komunikowaniu-sie/static/js/main.fbdfcb8a.chunk.js",
+    "main.js.map": "/pomoc-w-komunikowaniu-sie/static/js/main.fbdfcb8a.chunk.js.map",
+    "runtime-main.js": "/pomoc-w-komunikowaniu-sie/static/js/runtime-main.3ca1787f.js",
+    "runtime-main.js.map": "/pomoc-w-komunikowaniu-sie/static/js/runtime-main.3ca1787f.js.map",
+    "static/js/2.51ee472e.chunk.js": "/pomoc-w-komunikowaniu-sie/static/js/2.51ee472e.chunk.js",
+    "static/js/2.51ee472e.chunk.js.map": "/pomoc-w-komunikowaniu-sie/static/js/2.51ee472e.chunk.js.map",
+    "index.html": "/pomoc-w-komunikowaniu-sie/index.html",
+    "static/css/main.17fbb6b6.chunk.css.map": "/pomoc-w-komunikowaniu-sie/static/css/main.17fbb6b6.chunk.css.map",
+    "static/js/2.51ee472e.chunk.js.LICENSE.txt": "/pomoc-w-komunikowaniu-sie/static/js/2.51ee472e.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/pomoc-w-komunikowaniu-sie/static/media/G.b571eb82.png",
+    "static/media/App.css": "/pomoc-w-komunikowaniu-sie/static/media/bg.fed88941.png",
+    "static/media/cel_img.53b4f03e.jpg": "/pomoc-w-komunikowaniu-sie/static/media/cel_img.53b4f03e.jpg",
+    "static/media/cel_pic.00a7637f.jpg": "/pomoc-w-komunikowaniu-sie/static/media/cel_pic.00a7637f.jpg",
+    "static/media/contact_pic.3641d4a9.jpg": "/pomoc-w-komunikowaniu-sie/static/media/contact_pic.3641d4a9.jpg",
+    "static/media/gallery01.ce82cc02.jpg": "/pomoc-w-komunikowaniu-sie/static/media/gallery01.ce82cc02.jpg",
+    "static/media/gallery02.f582c50e.jpg": "/pomoc-w-komunikowaniu-sie/static/media/gallery02.f582c50e.jpg",
+    "static/media/gallery03.84b1eb97.jpg": "/pomoc-w-komunikowaniu-sie/static/media/gallery03.84b1eb97.jpg",
+    "static/media/gallery04.f3171da2.jpg": "/pomoc-w-komunikowaniu-sie/static/media/gallery04.f3171da2.jpg",
+    "static/media/logo_pomoc.f5198268.jpg": "/pomoc-w-komunikowaniu-sie/static/media/logo_pomoc.f5198268.jpg",
+    "static/media/menu.a8287c67.png": "/pomoc-w-komunikowaniu-sie/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/pomoc-w-komunikowaniu-sie/static/media/overlaybg.165362ee.png",
+    "static/media/person_one.52fa3e37.png": "/pomoc-w-komunikowaniu-sie/static/media/person_one.52fa3e37.png",
+    "static/media/person_two.c55df9d2.jpg": "/pomoc-w-komunikowaniu-sie/static/media/person_two.c55df9d2.jpg",
+    "static/media/pomoc.da58e701.png": "/pomoc-w-komunikowaniu-sie/static/media/pomoc.da58e701.png",
+    "static/media/quote.62de6d54.png": "/pomoc-w-komunikowaniu-sie/static/media/quote.62de6d54.png",
+    "static/media/sign.9bf0bd90.png": "/pomoc-w-komunikowaniu-sie/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.d079f43f.svg": "/pomoc-w-komunikowaniu-sie/static/media/spoon.d079f43f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ca1787f.js",
+    "static/js/2.51ee472e.chunk.js",
+    "static/css/main.17fbb6b6.chunk.css",
+    "static/js/main.fbdfcb8a.chunk.js"
+  ]
+}
