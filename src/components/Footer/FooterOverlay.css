@@ -8,9 +8,9 @@
     position: absolute;
 }
 
-.app__footerOverlay-black {
+.app__footerOverlay-blue {
     height: 25%;
-    background: var(--color-black);
+    background: var(--color-blue-light);
 }
 
 .app__footerOverlay-img {

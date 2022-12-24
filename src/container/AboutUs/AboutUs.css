@@ -22,10 +22,10 @@
     flex: 1;
     display: flex;
     justify-content: flex-end;
-    align-items: flex-end;
+    align-items: center;
     flex-direction: column;
 
-    text-align: right;
+    text-align: center;
 }
 
 .app__aboutus-content_knife {
@@ -40,10 +40,10 @@
     flex: 1;
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
 
-    text-align: left;
+    text-align: center;
 }
 
 .app__aboutus-content_about p,

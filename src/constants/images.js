@@ -1,47 +1,39 @@
 import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
+import personOne from '../assets/person_one.png';
+import personTwo from '../assets/person_two.jpg';
 import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
-import knife from '../assets/knife.png';
-import logo from '../assets/logo.png';
+import gallery01 from '../assets/gallery01.jpg';
+import gallery02 from '../assets/gallery02.jpg';
+import gallery03 from '../assets/gallery03.jpg';
+import gallery04 from '../assets/gallery04.jpg';
+import logoPomoc from '../assets/logo_pomoc.jpg';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
-import welcome from '../assets/welcome.png';
-import findus from '../assets/findus.png';
-import laurels from '../assets/laurels.png';
-import award01 from '../assets/award01.png';
-import award02 from '../assets/award02.png';
-import award03 from '../assets/award03.png';
-import award05 from '../assets/award05.png';
+import findus from '../assets/contact_pic.jpg';
+import celPic from '../assets/cel_pic.jpg';
+import celImg from '../assets/cel_img.jpg';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import gericht from '../assets/gericht.png';
+import pomoc from '../assets/pomoc.png';
 
 export default {
   bg,
-  chef,
+  personOne,
+  personTwo,
   G,
   gallery01,
   gallery02,
   gallery03,
   gallery04,
-  knife,
-  logo,
+  celImg,
+  logoPomoc,
   menu,
   overlaybg,
   spoon,
-  welcome,
   findus,
-  laurels,
-  award01,
-  award02,
-  award03,
-  award05,
+  celPic,
   sign,
   quote,
-  gericht,
+  pomoc,
 };
