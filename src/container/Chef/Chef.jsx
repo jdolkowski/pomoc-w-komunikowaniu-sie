@@ -4,11 +4,11 @@ import { images } from '../../constants';
 import './Chef.css';
 
 const Chef = () => (
-  <div className="app__wrapper section__padding" id="chef">
-    <div className="app__wrapper_img app__wrapper_img-reverse">
+  <div className="app__wrapper section__padding" id="chef" data-aos="fade-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out">
+    <div className="app__wrapper_img app__wrapper_img-reverse" data-aos="slide-right">
       <img src={images.personOne} alt="person_one_image" />
     </div>
-    <div className="app__wrapper_info">
+    <div className="app__wrapper_info" data-aos="slide-left">
       <h1 className="headtext__cormorant">W co wierzymy</h1>
 
       <div className="app__chef-content">
