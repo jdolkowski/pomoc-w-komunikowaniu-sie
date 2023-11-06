@@ -14,14 +14,23 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .</p>
+          <p className="p__opensans">Jestem   neurologopedką od ponad dwudziestu lat,</p>
         </div>
-        <p className="p__opensans"> auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc. </p>
+        <p className="p__opensans">
+          pedagożką specjalną, absolwentką Uniwersytetu Gdańskiego, Upledger Institute Poland, High Quality Woman XXVI,
+          Instytutu Studiów Podyplomowych w Warszawie. Prowadzę terapię neurologopedyczną w Szkole Podstawowej nr 25 z Oddziałami Integracyjnymi w Olsztynie oraz Centrum Medycznym Hura.
+          W pracy logopedycznej skupiam się na terapii dzieci i młodzieży z niepełnosprawnościami, uszkodzonej neurologicznie, ze spektrum autyzmu ,
+          SLI oraz terapii afazji u osób dorosłych po udarach i wypadkach komunikacyjnych. Realizuję  autorską metodę Four Elements Method (Metoda Czterech Żywiołów),
+          która zaprezentowana została na międzynarodowych kongresie dotyczącym innowacyjnych metod w terapii mowy i języka w Cascais w Portugalii podczas 10 rocznicy jubileuszu
+          kongresów i 30lecia CPLOL (Komitetu Łącznikowego Logopedów Unii Europejskiej) wśród takich organizacji  jak ASHA: American Speech-Language-Hearing Association oraz   CPLOL.
+          Pracuję  metodami: Sanjo, Craniosacralna Upledgera  CST1. Jestem ekspertką  mowy  oraz  autorką   artykułów o wielojęzyczności w Forum Logopedy.
+          Aktualnie prowadzę terapię i konsultacje dzieci z polskich rodzin mieszkających poza krajem przez Skype’a. Jestem  miłośniczką jazdy na nartach i żeglarstwa.
+        </p>
       </div>
 
       <div className="app__chef-sign">
         <p>Elwira Konczanin</p>
-        <p className="p__opensans">Prezeska</p>
+        <p className="p__opensans">Prezeska Zarządu Fundacji</p>
         <img src={images.sign} alt="sign_image" />
       </div>
     </div>

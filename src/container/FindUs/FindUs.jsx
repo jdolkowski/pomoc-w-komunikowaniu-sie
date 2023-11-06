@@ -11,6 +11,8 @@ const FindUs = () => (
         <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Kontakt</p>
         <p className="p__opensans">+48 501 573 907</p>
         <p className="p__opensans no-capitalize">pomocwkomunikowaniusie@gmail.com</p>
+        <p className="p__opensans no-capitalize">KRS 0000658550 NIP 7393894617</p>
+        <p className="p__opensans no-capitalize">NR KONTA 08 1140 2004 0000 3302 7677 3373</p>
       </div>
     </div>
 

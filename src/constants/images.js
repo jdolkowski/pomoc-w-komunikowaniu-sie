@@ -16,11 +16,13 @@ import celImg from '../assets/cel_img.jpg';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import pomoc from '../assets/pomoc.png';
+import personLidia from '../assets/personLidia.webp';
 
 export default {
   bg,
   personOne,
   personTwo,
+  personLidia,
   G,
   gallery01,
   gallery02,

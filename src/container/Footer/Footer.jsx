@@ -13,7 +13,7 @@ const Footer = () => (
 
       <div className="app__footer-links_logo">
         <img src={images.pomoc} alt="footer_logo" />
-        <p className="p__opensans">&quot;Lorem ipsum dolor sit amet consectetur ad&quot;</p>
+        <p className="p__opensans">&quot;Budujemy pomosty w komunikacji&quot;</p>
         <div className="app__footer-links_icons">
           <FiFacebook />
           <FiInstagram />
